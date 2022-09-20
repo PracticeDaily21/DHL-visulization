@@ -1,7 +1,7 @@
 # DHL-visulization
 Capstone Project - DHL Supply Chain/Network Design Problem
 
-Density heatmap for Juice2U customers
+Density heatmap based on customers' demands
 <img width="895" alt="Screen Shot 2022-09-20 at 6 54 37 PM" src="https://user-images.githubusercontent.com/91159549/191378940-ea661356-50ad-43b1-aa84-5f82ec456229.png">
 
 Visualize the Distribution of Suppliers and Warehouses of DHL on an interactive map using folium (folium: python map plotting library) 
